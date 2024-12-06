@@ -1,4 +1,5 @@
-# **Shaheer Ul Islam**  
+# **Shaheer Ul Islam  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="50" height="50">**
+
 ## **AI/ML Enthusiast | Full-Stack Developer**  
 ### **Building the Future with Code & Creativity**
 
@@ -28,9 +29,8 @@ Hazara University | Currently in my 7th semester
 ---
 
 ### **💬 Let's Connect:**
-- **[GitHub](https://github.com/shaheer-ul-islam)**  
-- **[LinkedIn]([https://linkedin.com/in/shaheer](https://www.linkedin.com/in/shaheer-ul-islam-a135b2290/))**
-- **[Email](mailto:work.shaheerulislam@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-ul-islam-a135b2290/)      [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaheer)      [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheer-ul-islam)    [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.shaheerulslam@gmail.com)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaheer_ul_islam/)
+
 
 ---
 
